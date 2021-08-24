@@ -5,7 +5,7 @@ Text2CryptoPunks, OpenAI Dalle-like model that uniquely generate CryptoPunks ima
 
 # Examples
 
-These are uniquely ai generate CryptoPunks. You can verify their Attributes in [Larva Labs' official website](https://github.com/user/repo/blob/branch/other_file.md)
+These are uniquely ai generate CryptoPunks. You can verify their Existance at [Larva Labs' official website](https://github.com/user/repo/blob/branch/other_file.md)
 
 Funny looking Alien cryptopunk with 2 Attributes, a Big Beard, and a Police Cap.           |  An Ape CryptoPunk that has 2 Attributes, a Pigtails and a Medical Mask. | A low resolution photo of punky-looking Ape that has 2 Attributes, a Beanie, and a Medical Mask. | Cute Alien cryptopunk that has a 2 Attributes, a Pipe, and a Beanie.
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
