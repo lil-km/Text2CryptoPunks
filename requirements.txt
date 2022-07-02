@@ -1,0 +1,8 @@
+torch
+torchvision
+wandb
+tqdm
+einops
+numpy
+ftfy
+regex
